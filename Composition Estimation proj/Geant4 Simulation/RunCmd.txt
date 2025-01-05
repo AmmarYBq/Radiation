@@ -1,0 +1,3 @@
+cmake -S . -B build\                   //to configure and make the nesesary files 
+
+cmake --build build --config Release  //to compile
